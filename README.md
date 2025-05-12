@@ -6,5 +6,9 @@
     
     The game is a fast-paced, multiplayer Prop Hunt game built within Roblox Studio.
     
-    Inspiered by [Midnight Ghost Hunt](https://store.steampowered.com/app/915810/Midnight_Ghost_Hunt/)
+    Inspired by [Midnight Ghost Hunt](https://store.steampowered.com/app/915810/Midnight_Ghost_Hunt/)
 
+    ### Key Features
+    - **Robust and Fast Prop Transformation System:**
+    - **Customizable Prop Movement:**
+    - **Interactive UI/UX:**
