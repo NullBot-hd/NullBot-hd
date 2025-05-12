@@ -8,7 +8,7 @@
     
     Inspired by [Midnight Ghost Hunt](https://store.steampowered.com/app/915810/Midnight_Ghost_Hunt/)
 
-    <img src="images/Matrix.png" height="80%" width="100%" alt="Disk Sanitization Steps"/>
+    <img src="images/Networking_PropHunt.png" height="80%" width="100%" alt="Networking"/>
 
     ### Key Features
     - **Robust and Fast Prop Transformation System:**
