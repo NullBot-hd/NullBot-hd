@@ -8,6 +8,8 @@
     
     Inspired by [Midnight Ghost Hunt](https://store.steampowered.com/app/915810/Midnight_Ghost_Hunt/)
 
+    <img src="images/Matrix.png" height="80%" width="100%" alt="Disk Sanitization Steps"/>
+
     ### Key Features
     - **Robust and Fast Prop Transformation System:**
     - **Customizable Prop Movement:**
