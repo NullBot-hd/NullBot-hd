@@ -29,11 +29,14 @@
       
       https://github.com/user-attachments/assets/09fd8f24-6667-4285-a3ad-2feb9b09a976
 
-
-
       https://github.com/user-attachments/assets/377ff1dd-01d1-4d3e-8400-727b8b7825c7
-
 
       https://github.com/user-attachments/assets/ff2542e5-0ddb-4965-aabc-03c6923d2631
 
+
+  - **Server & Client Replication**
+ 
+    https://github.com/user-attachments/assets/32d12776-570d-4cab-8978-35265c2fd6f4
+
+    https://github.com/user-attachments/assets/f87d5d96-634e-4467-a9d7-6798b207121e
 
