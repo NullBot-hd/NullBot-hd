@@ -17,8 +17,7 @@
 
     - **Map Selection:**
 
-        ![MapSelection drawio](https://github.com/user-attachments/assets/8645c1c4-8cbd-4fe1-8ddb-f3bef519c301)
-
+        ![Map Selection](https://github.com/user-attachments/assets/62126cab-422e-499c-a693-4d69347fd1d7)
 
     - **Robust and Fast Prop Transformation System:**
 
