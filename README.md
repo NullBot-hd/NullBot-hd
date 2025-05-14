@@ -13,7 +13,7 @@
     ### Key Features
     - **Interactive UI/UX:**
 
-        https://github.com/user-attachments/assets/66486fbd-8dcf-457c-8f4a-076e5262ae68
+        https://github.com/user-attachments/assets/bf4a2dca-aec4-4cb2-8e1f-1eac82ddc1f0
 
     - **Map Selection:**
 
