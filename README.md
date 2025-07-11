@@ -44,7 +44,6 @@
         
                 if closedList[#closedList].Node == targetNode then
                     print("Found path")
-                    --print(closedList)
                     return closedList
                 end
     
