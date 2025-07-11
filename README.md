@@ -16,8 +16,8 @@
 
     - ## **Currently working on**
       
-        Custom implenetation of the A* Algorithm
-
+        Custom implementation of the a* algorithm
+      
         https://github.com/user-attachments/assets/1e257109-5145-472f-a095-1c25180e46c2
 
         https://github.com/user-attachments/assets/4a57f24c-1fd9-4635-84cc-32920e0c3562
